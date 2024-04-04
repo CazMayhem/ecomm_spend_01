@@ -1,10 +1,15 @@
-<<<<<<< HEAD
-# ecomm_spend_01
-=======
-ecomm_spend_01
+Exploratory Data Analysis E-Commerce Data
 ==============================
 
-Exploratory Data Analysis & Prediction E-Commerce Data
+Project - ecomm_spend_01
+
+This project will perform EDA on dummy eCommerce data for online purchases by customers in the US. A number of techniques will be applied to help understand:
+- overall data quality (missing data, nulls)
+- volume of data
+- types of data
+- possible new features
+- balanced or imbalanced important for predictive modelling
+- interesting insights that may help stakeholders
 
 Project Organization
 ------------
