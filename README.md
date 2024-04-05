@@ -4,6 +4,7 @@ Exploratory Data Analysis E-Commerce Data
 Project - ecomm_spend_01
 
 This project will perform EDA on dummy eCommerce data for online purchases by customers in the US. A number of techniques will be applied to help understand:
+
 - overall data quality (missing data, nulls)
 - volume of data
 - types of data
@@ -62,5 +63,7 @@ Project Organization
 
 --------
 
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
->>>>>>> dd01e76 (init)
+<p><small>
+Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science">cookiecutter data science project template</a><br> 
+#cookiecutterdatascience
+</small></p>
